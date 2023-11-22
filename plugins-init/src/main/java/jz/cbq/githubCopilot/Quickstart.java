@@ -21,6 +21,6 @@ public class Quickstart {
      * 2. chat 聊天
      */
     private static void overview(){
-        System.out.println("Hello GithubCopilot");
+        System.out.println("Hello github copilot");
     }
 }
