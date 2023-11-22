@@ -23,6 +23,6 @@ public class Quickstart {
      * * 高亮注释 `*` 表示提示
      */
     private static void overview(){
-        System.out.println("Hello showComment");
+        System.out.println("Hello show comment");
     }
 }
