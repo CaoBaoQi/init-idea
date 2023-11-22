@@ -1,7 +1,7 @@
 package jz.cbq.betterHighlights;
 
 /**
- * Quickstart
+ * BetterHighlights 快速入门
  *
  * @author cbq
  * @date 2023/11/22 14:13
